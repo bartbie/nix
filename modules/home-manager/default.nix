@@ -12,7 +12,7 @@
     ffmpeg
     jq
     lazygit
-    pnpm
+    nodePackages_latest.pnpm
     rustup
     tmux
     et
