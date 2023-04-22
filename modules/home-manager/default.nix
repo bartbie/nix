@@ -51,5 +51,5 @@
   #   settings.font.normal.family = "MesloLGS Nerd Font Mono";
   #   settings.font.size = 16;
   # };
-  home.file.".inputrc".source = ./dotfiles/inputrc;
+  # home.file.".inputrc".source = ./dotfiles/inputrc;
 }
