@@ -46,7 +46,7 @@
       "raycast"
       "telegram"
       "discord"
-      ""
+      # ""
     ];
     # taps = [ "fujiapple852/trippy" ];
     # brews = [ "trippy" ];
