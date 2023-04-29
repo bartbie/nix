@@ -23,7 +23,7 @@
   };
   # NOTE: removes any manually-added fonts.
   fonts.fontDir.enable = true;
-  fonts.fonts = [ pkgs.nerdfonts.override { fonts = [ "JetBrainsMono" ]; } ];
+  fonts.fonts = [ (pkgs.nerdfonts.override { fonts = [ "JetBrainsMono" ]; }) ];
   # Auto upgrade nix package and the daemon service.
   services.nix-daemon.enable = true;
   system.defaults = {
